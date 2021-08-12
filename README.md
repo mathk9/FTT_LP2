@@ -7,4 +7,4 @@
   
   IDE utilizada: Apache NetBeans.
   
-  Principais diferenças estão nas palavras reservadas e metodos de conversões.
+  Principais diferenças: Palavras reservadas e metodos de conversões.
