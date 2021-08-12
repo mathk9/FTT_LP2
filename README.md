@@ -5,5 +5,6 @@
 
 ## Tradução C# para Java:
   
-  IDE utilizada: Apache NetBeans
-  Principais diferenças estão nas palavras reservadas e metodos de conversões
+  IDE utilizada: Apache NetBeans.
+  
+  Principais diferenças estão nas palavras reservadas e metodos de conversões.
